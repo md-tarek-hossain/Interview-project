@@ -1,6 +1,6 @@
 /* container-1----------------------------------- */
 body{
-    border: 3px solid gray;
+    /* border: 3px solid gray; */
     margin: 0;
     font-family: 'Kanit', sans-serif;
 
@@ -9,14 +9,6 @@ body{
     font-family: 'Archivo Black', sans-serif;
 font-family: 'Poppins', sans-serif;
 }
-
-
-/* 
-.left-nav-red:hover .left-nav-white{
-    cursor: pointer;
-    background-color: blue;
-} */
-
 
 .container-1{
     display: grid;
