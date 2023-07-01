@@ -217,7 +217,7 @@ justify-content: center;
 margin: 0 20px;
 }
 .left-part{
-    margin: 0% 20%;
+    margin: 0% 8%;
 }
 .blogs{
     height: 80%;
@@ -225,13 +225,16 @@ margin: 0 20px;
  
 }
 .blog{
-margin-left: 7%;
+margin-left: 11%;
 margin-top: 20px;
-  width: 450px;
+  width: 300px;
 }
 .image{
     height: 80%;
     width: 100%;
     /* margin-bottom: 20px; */
+}
+.banner-des{
+    margin-left: 50px;
 }
 }
